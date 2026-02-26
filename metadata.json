@@ -1,0 +1,5 @@
+{
+  "name": "RentFlow",
+  "description": "A comprehensive rental management system for landlords and property managers to track properties, tenants, and payments.",
+  "requestFramePermissions": []
+}
